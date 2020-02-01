@@ -3,6 +3,7 @@
 
 - **If your going to use this its not ready to paste, you'll need to setup a MySql database, preferably from Microsofts Azure service (ez and cheap).** 
      - Once thats done fill in your cridentials in the login.cpp file, and now you should have a working loader (make sure to set-up the tables correctly in the db).
+     - The program will crash if ran without a database (hence why I only added the cheat menu picture and not the loader since I deleted the database)
    
  <img src="https://i.imgur.com/yGL0VvV.png"/>  
  
