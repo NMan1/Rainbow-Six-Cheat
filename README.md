@@ -41,3 +41,12 @@
         - Customizable aimlock keys
         - Rage and legit settings toggle keys
         - Configs
+
+
+**Compiling**
+
+1. Right click on "OverflowR6.sln" in the first folder.
+2. Open it in a text editor such as notepad++
+3. Go to the 8th or so line where it says "OverflowDriver" with the path to the right. Change the directory path to the correct one on your system
+4. Re-open or reload the solution in visual studio.
+5. Compile in x64 Debug - make sure you have the windows driver development kit downloaded and configured correctly.
