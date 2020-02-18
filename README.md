@@ -50,3 +50,7 @@
 3. Go to the 8th or so line where it says "OverflowDriver" with the path to the right. Change the directory path to the correct one on your system
 4. Re-open or reload the solution in visual studio.
 5. Compile in x64 Debug - make sure you have the windows driver development kit downloaded and configured correctly.
+
+
+**Keep in mind**
+Cheaters have a smaller penis size!
