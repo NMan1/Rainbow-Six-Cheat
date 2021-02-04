@@ -6,7 +6,7 @@
      - Further explained here https://github.com/NMan1/Rainbow-Six-Cheat/issues/12#issuecomment-603886973
      - The program will crash if ran without a database (hence why I only added the cheat menu picture and not the loader since I deleted the database)
    
- <img src="https://i.imgur.com/yGL0VvV.png"/>  
+ <img src="https://thumb.gyazo.com/thumb/200_w/eyJhbGciOiJIUzI1NiJ9.eyJpbWciOiJfNTIyZGI0MTY4YzNiMDc5NTU3MDNiMmU2ZGJjYTg3ZDcifQ.C2XQp-Z_omuqxri5OzFya8ru8jOgIlj3ZwvvILJPupw-gif.gif"/>  
  
 - **Features** 	
      - Fully functional loader (you must setup the database yourself)
