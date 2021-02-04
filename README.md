@@ -1,5 +1,5 @@
 # Rainbow-Six-Full-Cheat-Source (Overflow Cheats)
-###### Just a long project which I stopped working on. Can bypass most anti-cheats with the only detection vector being the creation of a system thread.
+###### Just a long project which I stopped working on. Can bypass most anti-cheats with the only detection vector being the creation of a system thread. Project is very, very, messy
 
 - **If your going to use this its not ready to paste, you'll need to setup a MySql database (unless you just delete the method of using a database and just put a hard coded password), preferably from Microsofts Azure service (ez and cheap).** 
      - Once thats done fill in your cridentials in the login.cpp file, and now you should have a working loader (make sure to set-up the tables correctly in the db).
